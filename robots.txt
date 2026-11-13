@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lugui906.github.io/aaiml/sitemap.xml
