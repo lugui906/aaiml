@@ -8,23 +8,23 @@
 
 | 项目 | 值 |
 |---|---|
-| 文件 | `aaim_1.3.1_amd64.deb` |
-| 版本 | 1.3.1 |
+| 文件 | `aaim_1.3.4_amd64.deb` |
+| 版本 | 1.3.4 |
 | 架构 | amd64（x86_64） |
-| 大小 | 62,479,684 字节（约 59.6 MB） |
-| Installed-Size | 116,652 KB |
+| 大小 | 62,493,196 字节（约 59.6 MB） |
+| Installed-Size | 116,664 KB |
 | 包名 | `aaim` |
 | 依赖 | python3 ≥ 3.10、python3-gi、gir1.2-gtk-4.0、tesseract-ocr、tesseract-ocr-chi-sim |
 | 安装位置 | `/opt/aaim`；`/usr/bin/aaim` 是指向它的软链接 |
 | 用户数据 | `~/.aaim` |
-| 下载地址 | https://wwaye.lanzoue.com/ikD3H4fv2ouh |
-| 提取密码 | `27fn` |
-| SHA-256 | `c59031f1eb128b2d3b344e80fb7c7366509b1d53df31fe2e2e8de7992cd8030e` |
+| 下载地址 | https://wwaye.lanzoue.com/ibgna4fzv35e |
+| 提取密码 | `hqb2` |
+| SHA-256 | `32875f24e8953e56dbda0af1e580ed6782303ca1272fa34486f2ed460ddcc7ca` |
 
 安装：
 
 ```bash
-sudo apt install ./aaim_1.3.1_amd64.deb
+sudo apt install ./aaim_1.3.4_amd64.deb
 ```
 
 用 `apt` 而非 `dpkg -i`，让系统自动补依赖。deb 自带精简 Java 运行时与 Office 的 Python 依赖
